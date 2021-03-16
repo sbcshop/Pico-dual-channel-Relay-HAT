@@ -23,7 +23,7 @@
 
 * Stack Raspberry Pi Pico on female header of Pico 2 channel relay board.
 * Connect USB cable on Raspberry Pi Pico USB port.
-* Now use example code "Test.py" from Pico 2 channel relay board's github repository in any micropython supported ide (preferred thonny ide).
+* Now use example code "test.py" from Pico 2 channel relay board's github repository in any micropython supported ide (preferred thonny ide).
 * Copy paste code in ide and choose interpreter as MicroPython (Raspberry Pi pico).
 
 <img src="https://github.com/sbcshop/Raspberry-Pi-Pico-RFID-Expansion/blob/main/images/thonny-interpreter.PNG" />
