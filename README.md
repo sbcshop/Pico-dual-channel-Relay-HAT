@@ -14,7 +14,7 @@ Pico Dual Channel Relay HAT is a Two-Channel high-quality relay with loads of 7A
 
 ### Requirements
 
-* Raspberry Pi Pico dua; Channel Relay Board (Buy it from :  )
+* Raspberry Pi Pico dual Channel Relay Board (Buy it from : https://shop.sb-components.co.uk/products/pico-dual-channel-relay-hat  )
 * Raspberry Pi Pico (Buy it from : https://shop.sb-components.co.uk/collections/latest-collections/products/raspberry-pi-pico-board-with-header )
 * USB Cable
 * Jumper Cables (optional)
